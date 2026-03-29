@@ -1,0 +1,7 @@
+# Gemini minimal
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,geminicli.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
