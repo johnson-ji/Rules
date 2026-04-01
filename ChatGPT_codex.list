@@ -36,3 +36,7 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ct.sendgrid.net
 DOMAIN,android.chat.openai.com
 DOMAIN,auth0.openai.com
+DOMAIN,files.oaiusercontent.com
+DOMAIN-SUFFIX,cdn.openaimerge.com
+DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
